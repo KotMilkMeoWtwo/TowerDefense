@@ -1,0 +1,7 @@
+{
+  "name": "TowerDefense",
+  "author": "KotMilkMeoW",
+  "main": "ru.meowland.TowerDefense",
+  "description": "Tower Defense plugin for MeowLand server",
+  "version": 1.0
+}
